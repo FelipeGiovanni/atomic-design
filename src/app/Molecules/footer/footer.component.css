@@ -1,0 +1,26 @@
+* {
+    text-decoration: none;
+    text-align: center;
+    background-color: #704343;
+    font-size: 16px;
+}
+
+a{
+    text-emphasis: none;
+    text-decoration: none;
+    color: #1f1f1f;
+    transition: all 0.3s ease;
+    
+}
+
+a:hover{
+    color: #9b9b9b;
+}
+
+img {
+    width: 14px;
+    height: 14px;
+}
+
+
+

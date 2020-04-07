@@ -1,0 +1,25 @@
+li, a{
+    font-weight: 500;
+    font-size: 24px;
+    text-emphasis: none;
+    text-decoration: none;
+    color: #1f1f1f;
+}
+
+.nav-link{
+    list-style: none;
+}
+
+.nav-link li {
+    display: inline-block;
+    padding: 0px 45px;
+}
+
+.nav-link li a{
+    transition: all 0.3s ease;
+}
+
+.nav-link li a:hover{
+    color: #9b9b9b;
+}
+

@@ -1,0 +1,9 @@
+.container {
+    padding: 15px 55px;
+    display: flex;
+    font-size: 18px;
+}
+
+app-text-main {
+    padding: 0px 30px;
+}

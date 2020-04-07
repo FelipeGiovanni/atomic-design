@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 55px;
+}
+
+.card {
+  margin: 5px;
+    text-align: center;
+    transition: 0.3s;
+    border-radius: 5px;
+  }
+  
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  }
